@@ -91,4 +91,5 @@ if st.sidebar.button("Fetch Info"):
     except Exception as e:
         st.sidebar.error(f"Failed to connect: {str(e)}")
 
-# streamlit run app.py
+# execute 'streamlit run app.py' in terminal to run the app
+# execute 'pip freeze > requirements.txt' to generate the requirements file
