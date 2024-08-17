@@ -1,5 +1,3 @@
 streamlit
-linkedin_api
+linkedin-api
 pandas
-DateTime
-datetime
